@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="60%" />
+<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="65%" />
 
 # Hi, I'm Ayman 👋  
 ### Data Scientist | Machine Learning Engineer 🤖
@@ -10,7 +10,7 @@
 ---
 
 ## 🧠 About Me
-I’m a Data Scientist passionate about turning data into actionable insights and intelligent systems.  
+I’m a Data Scientist passionate about turning raw data into meaningful insights and intelligent systems.  
 I combine analytical thinking with business understanding to deliver real impact.
 
 - 🤖 Machine Learning & AI Enthusiast  
@@ -26,7 +26,7 @@ I combine analytical thinking with business understanding to deliver real impact
 - Feature Engineering  
 - Machine Learning Model Development  
 - Data Visualization & Dashboarding  
-- Model Deployment (APIs)  
+- Model Deployment (APIs)
 
 ---
 
